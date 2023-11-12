@@ -1,2 +1,3 @@
 # GitMasteryChallenge
-Commit on pull-request-branch
+confilict resolved
+
